@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @niketa282 studying an MEng Electronic Eng with Industrial Placement degree at the University of Southampton
-- 👀 I’m interested in software developement, computer architecture and exploring and growing with the time as technology evolves
+- 👀 I’m currently interested in learning more about software developement, computer architecture, networking, IOT and AI
 - 🌱 I’m currently learning C++, linux, bash scripting, networking, computer architecture, DevOps(Docker containers), data structures & algorithms, electronics
 - 💞️ I’m looking to collaborate on software developement projects (especially backend with C++ programming)
 - 📫 www.linkedin.com/in/niketa-gandhi
